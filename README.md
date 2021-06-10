@@ -1,1 +1,1 @@
-# [https://deltafish32.github.io](https://deltafish32.github.io)
+<https://deltafish32.github.io>
