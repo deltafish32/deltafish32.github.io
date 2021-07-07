@@ -206,7 +206,7 @@ sudo echo 'etc' >> /opt/.filetool.lst
 백업합니다.
 
 ``` bash
-filetool.sh -b
+sudo filetool.sh -b
 ```
 
 수정한 파일을 유지하고 싶을 때마다 실행해야 합니다.
