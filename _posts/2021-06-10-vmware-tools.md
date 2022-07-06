@@ -3,8 +3,8 @@ title: VMware Tools 설치 오류
 categories:
 - Solutions
 tags:
-- Windows
-- VMware
+- windows
+- vmware
 ---
 
 # 개요

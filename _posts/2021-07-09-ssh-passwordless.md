@@ -3,12 +3,12 @@ title: SSH 비밀번호 없이 접속하기
 categories:
 - Server
 tags:
-- Linux
-- SSH
-- VMware
-- ESXi
-- Synology
-- RSA
+- linux
+- ssh
+- vmware
+- esxi
+- synology
+- rsa
 ---
 
 # 개요

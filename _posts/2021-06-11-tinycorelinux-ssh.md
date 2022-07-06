@@ -3,11 +3,11 @@ title: TinyCoreLinux 로 SSH 서버 만들기
 categories:
 - Server
 tags:
-- TinyCoreLinux
-- Linux
-- SSH
-- VNC
-- RDP
+- tinycorelinux
+- linux
+- ssh
+- vnc
+- rdp
 ---
 
 # 개요
